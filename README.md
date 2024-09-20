@@ -8,10 +8,10 @@ Each pages link each other.
 each page have header, main and footer.
 when the user land on the home page there is navigation bar to send them into contact us page and about us page.
 
-The next page is about us page this page also the same like main page the only differenc is main content which is to tell for the customer to know about the campany and there is order online form onit.
+The next page is about us page this page also the same like main page the only difference is main content which is to tell for the customer to know about the campany and there is order online form onit.
 
 
-The last page is contact us page this page is also the same header and footer content like home page the only differenc is main content which is interact with customer if there is any queation or concern they can submit. 
+The last page is contact us page this page is also the same header and footer content like home page the only difference is main content which is interact with customer if there is any queation or concern they can submit. 
 
 
 My github link----> https://github.com/fitsumbabay/SBA-307-HTMLandCSS
